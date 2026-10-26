@@ -1,0 +1,21 @@
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# 品牌與未公開圖示（改用 GitHub 外鏈託管）
+*logo*
+*Logo*
+
+# 舊版截圖、合併/編輯殘留與暫存
+*_old.*
+*.orig
+*.rej
+*.swp
+*~
+desktop.ini
+.vs/
