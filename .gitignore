@@ -1,0 +1,12 @@
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# 品牌與未公開圖示（改用 GitHub 外鏈託管）
+*logo*
+*Logo*
