@@ -117,4 +117,6 @@ A: 本工具为纯净绿色软件，绝无任何恶意代码、木马或后门�
 
 本软件采用专有免费软件授权（Proprietary Freeware），完整授权规范、使用条款与免责声明请参阅 [LICENSE](../../LICENSE) 文件。
 
-本软件使用第三方组件 YY-Thunks（MIT License），授权声明请见 [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md)。
+本软件使用 Slint（Royalty-Free License）、YY-Thunks（MIT）与多个开源 Rust 库，授权声明请见 [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md) 与 [THIRD_PARTY_LICENSES.md](../../THIRD_PARTY_LICENSES.md)。
+
+<a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" alt="Made with Slint" width="160"></a>

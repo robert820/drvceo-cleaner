@@ -117,4 +117,6 @@ A: DrvCeo Cleaner is a clean, green application with zero backdoors or malicious
 
 This software is licensed under Proprietary Freeware terms. For full licensing terms, restrictions, and liability disclaimers, please refer to the [LICENSE](../../LICENSE) file.
 
-This software uses the third-party component YY-Thunks (MIT License). See [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md).
+This software uses Slint (Royalty-Free License), YY-Thunks (MIT) and several open-source Rust crates. See [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md) and [THIRD_PARTY_LICENSES.md](../../THIRD_PARTY_LICENSES.md).
+
+<a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" alt="Made with Slint" width="160"></a>
