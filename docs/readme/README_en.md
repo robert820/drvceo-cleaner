@@ -119,4 +119,7 @@ This software is licensed under Proprietary Freeware terms. For full licensing t
 
 This software uses Slint (Royalty-Free License), YY-Thunks (MIT) and several open-source Rust crates. See [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md) and [THIRD_PARTY_LICENSES.md](../../THIRD_PARTY_LICENSES.md).
 
-<a href="https://slint.dev"><img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-whitebg.png" alt="Made with Slint" width="160"></a>
+<a href="https://slint.dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-dark.png">
+  <img src="https://raw.githubusercontent.com/slint-ui/slint/master/logo/MadeWithSlint-logo-light.png" alt="Made with Slint" width="160">
+</picture></a>
